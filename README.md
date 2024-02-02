@@ -1,6 +1,4 @@
-With localization, you can do anything
--Patomkin, 2019
-Well, look at this
+
 You know all those "meme modifications" for games that make them as meme-y as possible?
 Well this is what this is.
 Installation:
