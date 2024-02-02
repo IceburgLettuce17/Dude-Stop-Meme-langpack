@@ -1,0 +1,606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AwardContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+	--------------------------
+	Dude, Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	DO NOT CHANGE Theme and Index.
+	Comment is for you only - no need to translate them, unless you want to help another translator.
+	--------------------------
+</Note>
+  <EntryList>
+    <AwardEntry index="2">
+      <comment>Bad cup, Cup from a trash can</comment>
+      <titleAcquired>Nasty cup</titleAcquired>
+      <titleNotAcquired>The Golden</titleNotAcquired>
+      <descriptionAcquired>Yucky.</descriptionAcquired>
+      <descriptionNotAcquired>Don't say it...</descriptionNotAcquired>
+       <shortDescriptionAcquired>What?</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="68">
+      <comment>For completing first pack three times</comment>
+      <titleAcquired>Your only gold</titleAcquired>
+      <titleNotAcquired>Tiny Trophy</titleNotAcquired>
+      <descriptionAcquired>The only gold you'll ever need.</descriptionAcquired>
+      <descriptionNotAcquired>All you want, all you need.</descriptionNotAcquired>
+      <shortDescriptionAcquired>All the gold you can have.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="4">
+      <comment>Bad cup, Rusty rombus, broken</comment>
+      <titleAcquired>Not broken at all</titleAcquired>
+      <titleNotAcquired>Ay-rhombus?</titleNotAcquired>
+      <descriptionAcquired>GL trying to solve this.</descriptionAcquired>
+      <descriptionNotAcquired>I hope i fixed the name for you.</descriptionNotAcquired>
+      <shortDescriptionAcquired>Broken, open.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="5">
+      <comment>Good cup, Golden rombus that you combine from pieces</comment>
+      <titleAcquired>Not gold</titleAcquired>
+      <titleNotAcquired>G-Rhombus</titleNotAcquired>
+      <descriptionAcquired>I was ironic.</descriptionAcquired>
+      <descriptionNotAcquired>G for Gold.</descriptionNotAcquired>
+       <shortDescriptionAcquired>Another piece'a gold. (at least for good people like...... not you)</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="6">
+      <comment>Bad cup, Tiny metal cup</comment>
+      <titleAcquired>Itty-bitty cup</titleAcquired>
+      <titleNotAcquired>Tiny cup</titleNotAcquired>
+      <descriptionAcquired>Size still doesn't matter</descriptionAcquired>
+      <descriptionNotAcquired>It's 1 inch.</descriptionNotAcquired>
+      <shortDescriptionAcquired>Smaller than an ant!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="7">
+      <comment>Good cup, Long golden cup</comment>
+      <titleAcquired>Longest cup</titleAcquired>
+      <titleNotAcquired>A cup</titleNotAcquired>
+      <descriptionAcquired>This is weird.</descriptionAcquired>
+      <descriptionNotAcquired>Perfectly normal cup in a cup stand.</descriptionNotAcquired>
+       <shortDescriptionAcquired>It's bee- big and so long!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="30">
+      <comment>For smashing domino too strong, domino piece</comment>
+      <titleAcquired>Domino</titleAcquired>
+      <titleNotAcquired>This thing</titleNotAcquired>
+      <descriptionAcquired>You absolutely wrecked 'em! Don't get me wrong - it's still wrong to do it like that, but still a whole lot of fun.</descriptionAcquired>
+      <descriptionNotAcquired>An achievement reward! Go &lt;b&gt;somewhere&lt;/b&gt;, do &lt;b&gt;something&lt;/b&gt; and you will certainly get it. Get it?</descriptionNotAcquired>
+      <shortDescriptionAcquired>Literally that.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="72">
+      <comment>For putting postmark perfectly</comment>
+      <titleAcquired>Perfect postmark</titleAcquired>
+      <titleNotAcquired>Postmark</titleNotAcquired>
+      <descriptionAcquired>Perrfect!</descriptionAcquired>
+      <descriptionNotAcquired>Lick it and stick it.</descriptionNotAcquired>
+      <shortDescriptionAcquired>Congratulations on your first good cup!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="31">
+      <comment>100% bad, wooden cup</comment>
+      <titleAcquired>Wooden cup</titleAcquired>
+      <titleNotAcquired>gold and tiny</titleNotAcquired>
+      <descriptionAcquired>Ha, I lied! It's not golden, you are ruining my game, why would it be golden? It's so funny, you should've seen your face, HAHA!</descriptionAcquired>
+      <descriptionNotAcquired>totally a golden one.</descriptionNotAcquired>
+      <shortDescriptionAcquired>Bruh.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="32">
+      <comment>100% good, tiny long cup</comment>
+      <titleAcquired>Actually gold this time</titleAcquired>
+      <titleNotAcquired>Another wooden cup</titleNotAcquired>
+      <descriptionAcquired>Finally you are good!</descriptionAcquired>
+      <descriptionNotAcquired>This isn't worth it.</descriptionNotAcquired>
+      <shortDescriptionAcquired>You deserved it!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="22">
+      <comment>Bad cup, Hat from a Bistro Restoran</comment>
+      <titleAcquired>Your future job</titleAcquired>
+      <titleNotAcquired>A thing</titleNotAcquired>
+      <descriptionAcquired>I'm loving it.</descriptionAcquired>
+      <descriptionNotAcquired>a thing.</descriptionNotAcquired>
+  <shortDescriptionAcquired>YOURE LOVING IT!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="23">
+      <comment>Good cup, Hat from a University graduation</comment>
+      <titleAcquired>Graduation cap</titleAcquired>
+      <titleNotAcquired>Real graduation cap</titleNotAcquired>
+      <descriptionAcquired>I bought this off of eBay, you don't deserve graduation.</descriptionAcquired>
+      <descriptionNotAcquired>Your ticket to the future... packs!</descriptionNotAcquired>
+      <shortDescriptionAcquired>OK.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="56">
+      <comment>100% bad, Chocolate medal</comment>
+      <titleAcquired>Chocolate penny</titleAcquired>
+      <titleNotAcquired>Los̶t̶ s cause</titleNotAcquired>
+      <descriptionAcquired>This isn't a medal, it's chocolate!</descriptionAcquired>
+      <descriptionNotAcquired>|   | |  | ∣  |_ </descriptionNotAcquired>
+      <shortDescriptionAcquired>Eat em up!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="63">
+      <comment>Finish pack in 15 sec, Golden star</comment>
+      <titleAcquired>Speedrun Pack!</titleAcquired>
+      <titleNotAcquired>Cheating star</titleNotAcquired>
+      <descriptionAcquired>I know you used UE. I KNOW.</descriptionAcquired>
+      <descriptionNotAcquired>Impossible without hacks. -Broken mouse and UE people</descriptionNotAcquired>
+      <shortDescriptionAcquired>A UnityExplorer Back-to-School.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="10">
+      <comment>Bad cup, Cup with a spoiler text</comment>
+      <titleAcquired>Crazy cup</titleAcquired>
+      <titleNotAcquired>A note</titleNotAcquired>
+      <descriptionAcquired>Btw, &lt;color=white&gt;!! FILLED WITH RATS !!&lt;/color&gt;</descriptionAcquired>
+      <descriptionNotAcquired>From your mo- oh wait, you don't have one!</descriptionNotAcquired>
+      <shortDescriptionAcquired>I was crazy once.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="11">
+      <comment>Good cup, Cup from pieces</comment>
+      <titleAcquired>Blocky cup</titleAcquired>
+      <titleNotAcquired>Amogus</titleNotAcquired>
+      <descriptionAcquired>lol</descriptionAcquired>
+      <descriptionNotAcquired>A suspicious shape. What could it be? im funny i swear</descriptionNotAcquired>
+      <shortDescriptionAcquired>A suspicious shape.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="33">
+      <comment>For cutting pizza in 11 pieces, cup is a pizza cutter</comment>
+      <titleAcquired>| | | | | | | | | |  |</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>ELEVEN!!!! E-</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="34">
+      <comment>100% bad, Pet Rock</comment>
+      <titleAcquired>The Rock</titleAcquired>
+      <titleNotAcquired>John xina</titleNotAcquired>
+      <descriptionAcquired>🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨🤨</descriptionAcquired>
+      <descriptionNotAcquired>You can't see it.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="35">
+      <comment>100% good, boring golden one</comment>
+      <titleAcquired>Yellow-tint cup</titleAcquired>
+      <titleNotAcquired>Real gold</titleNotAcquired>
+      <descriptionAcquired>Hey guys, did you know that in terms of male human and female Pokémon breeding, Vaporeon is the most compatible Pokémon for humans? Not only are they in the field egg group, which is mostly comprised of mammals, Vaporeon are an average of 3"03' tall and 63.9 pounds. this means they're large enough to be able to handle human dicks, and with their impressive Base stats for HP and access to Acid Armor, you can be rough with one. Due to their mostly water based biology, there's no doubt in my mind that an aroused Vaporeon would be incredibly wet, so wet that you could easily have sex with one for hours without getting sore. They can also learn the moves Attract, Baby-Doll eyes, Captivate, Charm and Tail Whip along with not having fur to hide nipples, so it'd be incredibly easy for one to get you in the mood. With their abilities Water Absorb and Hydration, they can easily recover from fatigue with enough water. No other Pokémon comes close with this level of compatibility. Also, fun fact, if you pull out enough, you can make your Vaporeon turn white. Vaporeon is literally built for human dick. Ungodly defense stat + high HP pool + Acid Armor means it can take cock all day, all shapes and sizes and still come for more.</descriptionAcquired>
+      <descriptionNotAcquired>The best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="73">
+      <comment>Place crayons upside down</comment>
+      <titleAcquired>White crayons</titleAcquired>
+      <titleNotAcquired>Secret</titleNotAcquired>
+      <descriptionAcquired>Reverse stacking</descriptionAcquired>
+      <descriptionNotAcquired>???</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="64">
+      <comment>For cutting crust off, Cup is Pineapple</comment>
+      <titleAcquired>Unsightreadable cup</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>o͇_|) (>). Consider equipping some COLOGNE. It's called Sex Panther® by Odeon©.
+
+It's illegal in 9 countries.
+
+It's also made with bits of real panther, so you know it's good...
+
+  It's quite pungent; a formidable scent.
+
+  Stings the nostrils; in a good way.
+
+  
+
+  Brian...
+
+  I'm gonna be completely honest with you,
+
+  that smells like pure gasoline...
+They've done studies, you know...
+
+60% of the time, it works every time.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="65">
+      <comment>Cut pizza and avoid all the meat pieces, cup is a pizza slice as a necklace</comment>
+      <titleAcquired>Cut my pizza into pieces, this is my plastic cutter</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>I give a fuck if it's meat that i'm eating.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="66">
+      <comment>Get a pizza achievements (not actual achievement, just write something about pizza)</comment>
+      <titleAcquired>Pizza mania</titleAcquired>
+      <titleNotAcquired>Pizza mania</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Seize the cheese!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="12">
+      <comment>Bad cup, Pile of lemons</comment>
+      <titleAcquired>LifeGift</titleAcquired>
+      <titleNotAcquired>Plan B</titleNotAcquired>
+      <descriptionAcquired>Eat it all! and die.</descriptionAcquired>
+      <descriptionNotAcquired>A whole box of condoms.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="13">
+      <comment>Good cup, Chocolate cake</comment>
+      <titleAcquired>Cake</titleAcquired>
+      <titleNotAcquired>Donut</titleNotAcquired>
+      <descriptionAcquired>Mmmmm... cake! No donuts.</descriptionAcquired>
+      <descriptionNotAcquired>I wonder, if it's a chocolate one? Or a glazed one?
+Well, solve everything to find out!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="36">
+      <comment>All cat puzzle good, cup is a mouse toy</comment>
+      <titleAcquired>Mick the mouse</titleAcquired>
+      <titleNotAcquired>A mouse</titleNotAcquired>
+      <descriptionAcquired>Not affiliated with Disney.
+(For treating cats the right way)</descriptionAcquired>
+      <descriptionNotAcquired>A toy for a good cat.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="37">
+      <comment>All dog puzzles good, cup is a bone</comment>
+      <titleAcquired>Bone</titleAcquired>
+      <titleNotAcquired>Human bone</titleNotAcquired>
+      <descriptionAcquired>A bone appétreat!
+(For dogging)</descriptionAcquired>
+      <descriptionNotAcquired>Just killed someone, feeling good!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="38">
+      <comment>All dog puzzles bad, looks like a medical cone on a dog</comment>
+      <titleAcquired>Cone of shame</titleAcquired>
+      <titleNotAcquired>The punishment</titleNotAcquired>
+      <descriptionAcquired>Wear it. NOW! 
+(For dog)</descriptionAcquired>
+      <descriptionNotAcquired>____ it.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="39">
+      <comment>All cat puzzle bad, cup is a water spraying bottle</comment>
+      <titleAcquired>Placeholder text</titleAcquired>
+      <titleNotAcquired>WaterSpray</titleNotAcquired>
+      <descriptionAcquired>Placeholder description. WaterSpray
+(For being bad in all cat puzzles)</descriptionAcquired>
+      <descriptionNotAcquired>Water. Air. Fire. Rock. </descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="40">
+      <comment>Wet cat on a book</comment>
+      <titleAcquired>Drip cat</titleAcquired>
+      <titleNotAcquired>The cat</titleNotAcquired>
+      <descriptionAcquired>Bro got dat drip
+[No animals were harmed during the creation of this videogame. Except cock. Delicious-delicious cock.]</descriptionAcquired>
+      <descriptionNotAcquired>When you're in the wrong place at the wrong time.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="14">
+      <comment>Bad cup, D.U.C.K.</comment>
+      <titleAcquired>D.U.C.K.</titleAcquired>
+      <titleNotAcquired>Unhappy cup</titleNotAcquired>
+      <descriptionAcquired>Quack.</descriptionAcquired>
+      <descriptionNotAcquired>HAAAAAAAAAAAAAA</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="15">
+      <comment>Good cup, Cup with candies</comment>
+      <titleAcquired>Candy Cup</titleAcquired>
+      <titleNotAcquired>Sweets</titleNotAcquired>
+      <descriptionAcquired>Keep crushin' em!</descriptionAcquired>
+      <descriptionNotAcquired>Only good kids get this.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="41">
+      <comment>100% good, Icecream</comment>
+      <titleAcquired>ICE SCREAM</titleAcquired>
+      <titleNotAcquired>Surprise sweets</titleNotAcquired>
+      <descriptionAcquired>  </descriptionAcquired>
+      <descriptionNotAcquired>  </descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="42">
+      <comment>100% bad, Stuff from pockets</comment>
+      <titleAcquired>All you had</titleAcquired>
+      <titleNotAcquired>All I deserve</titleNotAcquired>
+      <descriptionAcquired>One coin, an old toothpick and some belly button lint. Looks like a lot, but don't expect much.</descriptionAcquired>
+      <descriptionNotAcquired>One ____, an ___ _________ and some reverse psychology. </descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="43">
+      <comment>Hundreat photos of cat</comment>
+      <titleAcquired>Click-click 3000</titleAcquired>
+      <titleNotAcquired>Cat pics</titleNotAcquired>
+      <descriptionAcquired>Look at my cat, my cat is amazing</descriptionAcquired>
+      <descriptionNotAcquired>Click it till you _________cat</descriptionNotAcquired>
+      <shortDescriptionAcquired />              
+    </AwardEntry>
+    <AwardEntry index="16">
+      <comment>Bad cup, Old shoe</comment>
+      <titleAcquired>Old stinky shoe</titleAcquired>
+      <titleNotAcquired>Goldeen shoe</titleNotAcquired>
+      <descriptionAcquired>Brings so much memories... and some wild stench.</descriptionAcquired>
+      <descriptionNotAcquired>It was a typo.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="17">
+      <comment>Good cup, Turbo snail</comment>
+      <titleAcquired>TURBO SNAIL</titleAcquired>
+      <titleNotAcquired>The best of the worst of the worst of the worstest</titleNotAcquired>
+      <descriptionAcquired>Literally that.</descriptionAcquired>
+      <descriptionNotAcquired>...what might it be?! Be good to find out!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="44">
+      <comment>100% good, Big lightning</comment>
+      <titleAcquired>Flash</titleAcquired>
+      <titleNotAcquired>Thunder</titleNotAcquired>
+      <descriptionAcquired>Sometimes being the fastest is good.</descriptionAcquired>
+      <descriptionNotAcquired>Weirdly resembles the song by Imagine Dragons deez nuts.
+(Each playthrough has different puzzles)</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="45">
+      <comment>100% bad, Items that break fast. Other text is in a WORDS file (SLOWRAPID_CUP)</comment>
+      <titleAcquired>Fast and wrong</titleAcquired>
+      <titleNotAcquired>Broken</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Oh no, our thing, its broken!
+(Each playthrough has different puzzles)</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="46">
+      <comment>Broken elevator, looks like stairs</comment>
+      <titleAcquired>Stairs</titleAcquired>
+      <titleNotAcquired>Elevator</titleNotAcquired>
+      <descriptionAcquired>Someone's walking from now on.</descriptionAcquired>
+      <descriptionNotAcquired>Weirdly resembles stairs.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="74">
+      <comment>String from a Jacket Hoody, for taking it off</comment>
+      <titleAcquired>The String</titleAcquired>
+      <titleNotAcquired>The Jacket</titleNotAcquired>
+      <descriptionAcquired>And no, you can't stick it back in.</descriptionAcquired>
+      <descriptionNotAcquired>No strings attached.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="67">
+      <comment>See all puzzles in a pack, looks like  and eye</comment>
+      <titleAcquired>I've seen it all</titleAcquired>
+      <titleNotAcquired>Seen-it-all cup</titleNotAcquired>
+      <descriptionAcquired>I spy with my little eye.... Global.self.DEBUG = false? lemme fix that</descriptionAcquired>
+      <descriptionNotAcquired>Around the world Around the woooorld</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="18">
+      <comment>Bad cup, Claw</comment>
+      <titleAcquired>The Claw</titleAcquired>
+      <titleNotAcquired>A cup</titleNotAcquired>
+      <descriptionAcquired>The Claw is your master, it will decide who is good and who is bad. And you already know the verdict.</descriptionAcquired>
+      <descriptionNotAcquired>Weirdly resembles a claw.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="19">
+      <comment>Good cup, Robocup</comment>
+      <titleAcquired>Robocup</titleAcquired>
+      <titleNotAcquired>Augmented cup</titleNotAcquired>
+      <descriptionAcquired>Enjoy the copyright!</descriptionAcquired>
+      <descriptionNotAcquired>This cups might be damaged, but we can rebuild it.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="47">
+      <comment>100% bad, Milk and cookies</comment>
+      <titleAcquired>Forever dry</titleAcquired>
+      <titleNotAcquired>Frustrating cup</titleNotAcquired>
+      <descriptionAcquired>Oh, you can't?</descriptionAcquired>
+      <descriptionNotAcquired>You don't want this. You think you do, but you don't.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="48">
+      <comment>100% good, cookies</comment>
+      <titleAcquired>Pile of cookies</titleAcquired>
+      <titleNotAcquired>Sweet victory</titleNotAcquired>
+      <descriptionAcquired>Dip it in milk.</descriptionAcquired>
+      <descriptionNotAcquired>Pile of goodies.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="49">
+      <comment>Wash only 1 piece</comment>
+      <titleAcquired>Washted</titleAcquired>
+      <titleNotAcquired>Washted!</titleNotAcquired>
+      <descriptionAcquired>Keep on washting (he-he) water, and next cup will be a boulder down a mountain.</descriptionAcquired>
+      <descriptionNotAcquired>Load responsibly.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="50">
+      <comment>In 31 moves</comment>
+      <titleAcquired>Perfect 31</titleAcquired>
+      <titleNotAcquired>Perfecto?</titleNotAcquired>
+      <descriptionAcquired>You did it! 31 moves!</descriptionAcquired>
+      <descriptionNotAcquired>Only kids from 90's will understand. And 00's. And all others. Basically, anyone who knows the rules.</descriptionNotAcquired>
+      <shortDescriptionAcquired>Perfection.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="51">
+      <comment>In less than 31 moves</comment>
+      <titleAcquired>A cheater?!</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>!! UNITYEXPLORER ALERT UNITYEXPLORER ALERT UNITYEXPLORER ALERT UNITYEXPLORER ALERT UNITYEXPLORER ALERT UNITYEXPLORER ALERT UNITYEXPLORER ALERT  !!</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired>
+                 yes</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="52">
+      <comment>Correct order, and big one was never on the small one</comment>
+      <titleAcquired>Order matters</titleAcquired>
+      <titleNotAcquired>Order matters</titleNotAcquired>
+      <descriptionAcquired>At least it's not 1-</descriptionAcquired>
+      <descriptionNotAcquired>Just get it done sooner or later.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="20">
+      <comment>Bad cup, Potato</comment>
+      <titleAcquired>Potato</titleAcquired>
+      <titleNotAcquired>Vegetable</titleNotAcquired>
+      <descriptionAcquired>You can boil it, fry it, bake it, cut it... oh wait, you can't! HAHAHAHAHAHA*
+
+*Definitely Not a fake laugh</descriptionAcquired>
+      <descriptionNotAcquired>Not even a fruit! Just a plain boring vegetable.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="21">
+      <comment>Good cup, Golden case</comment>
+      <titleAcquired>Item-mania</titleAcquired>
+      <titleNotAcquired>Item-mania</titleNotAcquired>
+      <descriptionAcquired>This'll fill your inventory in seconds.</descriptionAcquired>
+      <descriptionNotAcquired>For the HOaRDErs!!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="53">
+      <comment>100% bad, </comment>
+      <titleAcquired>Pointless cup</titleAcquired>
+      <titleNotAcquired>Unnecessary cup</titleNotAcquired>
+      <descriptionAcquired>WHY</descriptionAcquired>
+      <descriptionNotAcquired>Pointless description.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="54">
+      <comment>100% good, golden pen</comment>
+      <titleAcquired>The Golden (Pen)</titleAcquired>
+      <titleNotAcquired>Inventory master</titleNotAcquired>
+      <descriptionAcquired>Oh my god is that a mothherfucking geometry dash reference?! Oh my geometry dash is my favorite game, I'm glad that they made a reference about my favorite game. One time on my music class my teacher said "Kyrie eleison" Get it because it's a gd lvl made by a famous creator viprin?! One time I heard someone talking about nine circles, and I said "Oh my god is that a motherfucking geometry dash reference?! And they reported me to the astronauts to fling in space after they flinnged me to space and I was thinking in space get? Because thinking space!, i was knocked unconscious and i woke up to a crimson planet suffering get it?! Because crimson planet is a geometry dash level that i will never beat. One time i heard someone say "The golden" Get it? Because it's geometry dash reference, after that, they kidnapped me and took me to a shock therapy get it? Because it's a motherfucking geometry dash reference! One time i saw my classmate drinking a water that has a sonic wave logo in it and i said "Oh my god is that a motherfucking geometry dash reference?!" And my friend whips me with a belt. Also, i watched the news recently, and i saw a news about slaughterhouse and i said "Oh my god is that a motherfucking geometry dash reference" And my friend said " Can you get your life back on track?!" And i said "Oh my god is that a motherfuckinng geometry dash reference?!" And my friend screamed in the room get it? Because screamroom is a geometry dash level! One time my pastor talked about the hell inferno and i said "Oh my god is that a motherfucking geometry dash reference?!" And my pastor kicked in his church but it was worth it, because it's a geometry dash reference. One time i heard someone talking about tartarus, and i said "Oh my god is that a motherfucking geometry dash reference?!" And they kicked me. One time my mom bought us a aeonair conditioner and i said " Oh my god is that a motherfucking geometry dash reference?!" Get it? Because aeonair is a famous geometry dash content creator. TRUSTA NERF GUN TRUSTA NERF GUN TRUSTA NERF GUN TRUSTA NERF GUN TRUSTA NERF GUN TRUSTA NERF GUN TRUSTA NERF GUN TRUSTA NERF GUN TRUSTA NERF GUN AAAAAAAAAAAAAAAAAAAA.</descriptionAcquired>
+      <descriptionNotAcquired>That feeling when you juggle with items like a pro and get rewarded for it.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="55">
+      <comment>All pictures in right order, cup is a kids pic</comment>
+      <titleAcquired>Child pics</titleAcquired>
+      <titleNotAcquired>"Looks nice"</titleNotAcquired>
+      <descriptionAcquired>Looks nice (if you were 3)</descriptionAcquired>
+      <descriptionNotAcquired>The lies we tell to our kids...</descriptionNotAcquired>
+      <shortDescriptionAcquired>It's an order-nary picture.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="24">
+      <comment>Bad cup, Monster cup</comment>
+      <titleAcquired>Monster cup</titleAcquired>
+      <titleNotAcquired>The horror</titleNotAcquired>
+      <descriptionAcquired>What you get for being A Monster!</descriptionAcquired>
+      <descriptionNotAcquired>I'm begging you!! Not like this!! I'm too young to lose!! AAAAAAAAAAAAAAaaaaaaaaaa&lt;size=16&gt;aaaaaaaaaaaaaa&lt;/size&gt;</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="25">
+      <comment>Good cup, Holy grail</comment>
+      <titleAcquired>Holy grail</titleAcquired>
+      <titleNotAcquired>Ancient one</titleNotAcquired>
+      <descriptionAcquired>ERROR: Can't be empty</descriptionAcquired>
+      <descriptionNotAcquired>Hidden behind riddles and dust.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="58">
+      <comment>100% bad, Rusty metal cup</comment>
+      <titleAcquired>Dusty, Rusty cup</titleAcquired>
+      <titleNotAcquired>Old crap</titleNotAcquired>
+      <descriptionAcquired>Hey, psst, kid, come closer. Want some tetanus?</descriptionAcquired>
+      <descriptionNotAcquired>Because you are worth it.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="59">
+      <comment>100% good, Golden cup</comment>
+      <titleAcquired>Yet Another Golder Cup</titleAcquired>
+      <titleNotAcquired>Golden goods</titleNotAcquired>
+      <descriptionAcquired>Yet another golder description.</descriptionAcquired>
+      <descriptionNotAcquired>My imagination stops here.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="60">
+      <comment>Chocolate cream</comment>
+      <titleAcquired>Nightmare on Sweet Street</titleAcquired>
+      <titleNotAcquired>Nightmare on Sweet Street</titleNotAcquired>
+      <descriptionAcquired>It will haunt you forever.</descriptionAcquired>
+      <descriptionNotAcquired>"...She walked into the room, and there he was - standing without a knife, in shock and horror, looking at what he had done..."</descriptionNotAcquired>
+      <shortDescriptionAcquired>Knife to meat you!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="26">
+      <comment>Bad cup, Golden, #17 text</comment>
+      <titleAcquired>Appreciation reward</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Thank you, Tester #17, for participating in the paid test of the game Dude, Stop. You did &lt;color=red&gt;BAD&lt;/color&gt;... but at least you tried.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="76">
+      <comment>Can be same as cup #69</comment>
+      <titleAcquired>Final Cup</titleAcquired>
+      <titleNotAcquired>Final Cup</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Game over, Dude! Game over!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="27">
+      <comment>Good cup, Treasure chest with gold</comment>
+      <titleAcquired>Treasure Chest</titleAcquired>
+      <titleNotAcquired>Full of rewards</titleNotAcquired>
+      <descriptionAcquired>Cups not included.</descriptionAcquired>
+      <descriptionNotAcquired>More than you can imagine.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="61">
+      <comment>100% bad, Angry cactoos</comment>
+      <titleAcquired>Angry cup</titleAcquired>
+      <titleNotAcquired>Last drop</titleNotAcquired>
+      <descriptionAcquired>From an angry developer. Eat it.</descriptionAcquired>
+      <descriptionNotAcquired>Be good, or just alt-F-four from here.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="62">
+      <comment>100% good, boring golden one</comment>
+      <titleAcquired>The Last Gold</titleAcquired>
+      <titleNotAcquired>Last push</titleNotAcquired>
+      <descriptionAcquired>You can now shower yourself in gold.</descriptionAcquired>
+      <descriptionNotAcquired>Have the guts, get the glory.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="70">
+      <comment>Blured picture</comment>
+      <titleAcquired>Low hanging fruit</titleAcquired>
+      <titleNotAcquired>Big numbers</titleNotAcquired>
+      <descriptionAcquired>Ha-ha, very funny.
+...
+Get out.</descriptionAcquired>
+      <descriptionNotAcquired>The oldest trick in the book.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="71">
+      <comment>Upside down tree</comment>
+      <titleAcquired>Australian Christmas</titleAcquired>
+      <titleNotAcquired>The Upside Down</titleNotAcquired>
+      <descriptionAcquired>Mate.</descriptionAcquired>
+      <descriptionNotAcquired>Holiday, but the other way around.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="69">
+      <comment>Text only, no cup</comment>
+      <titleAcquired>Final Cup</titleAcquired>
+      <titleNotAcquired>Final Cup</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Game over, Dude! Game over!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="75">
+      <comment>Secret achievement, when you exit the game</comment>
+      <titleAcquired>Secret door</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired />
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired>Left when it mattered.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="28">
+      <comment>When you collect all 60+ cups in the game</comment>
+      <titleAcquired>Completionist</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Congratulations! You went an extra mile to piss off the developer and everybody around you. Such diligence. Very hero. Much wow. *slow clap*
+(For unlocking every cup in the game)</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+  </EntryList>
+</AwardContainer>
